@@ -111,3 +111,9 @@ Create a New React Application: Open your terminal and run the following command
 
 
 # This README provides a comprehensive guide to setting up your Multi-Purpose ChatBot and will be very helpful for anyone looking to use or contribute to your project!
+
+
+# PREVIEW OF THE CHATBOT :
+![WhatsApp Image 2024-09-29 at 00 30 10_4630e39f](https://github.com/user-attachments/assets/d86bdae0-7ce1-4f5e-a24d-b193013ab546)
+
+
